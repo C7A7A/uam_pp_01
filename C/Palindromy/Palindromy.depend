@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574178007 source:/home/mateusz/Desktop/studia/PP/Palindromy/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

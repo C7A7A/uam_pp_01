@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574351955 source:/home/mateusz/Desktop/studia/PP/PodejrzanaKarteczka/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574179793 source:/home/mateusz/Desktop/studia/PP/KalkulatorZBajerami/main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
